@@ -4,11 +4,11 @@
 
 The Mandelbrot set stands as a testament to the mesmerizing beauty that emerges from the seemingly simple realm of mathematics. Discovered by Benoît B. Mandelbrot in 1980, this fractal set transcends its mathematical roots, captivating the imagination of mathematicians, scientists, and artists alike. Beyond its numerical definition lies a visual journey into the intricate patterns and complex structures shaped by the iterative interplay of numbers.
 
-![Mandelbrot Image 1](mandelbrot.jpg)
+![Mandelbrot Image 1](Mandelbrot.jpg)
 
-![Mandelbrot Image 2](mandelbrot2.jpg)
+![Mandelbrot Image 2](Mandelbrot2.jpg)
 
-![Mandelbrot Image 3](mandelbrot3.jpg)
+![Mandelbrot Image 3](Mandelbrot3.jpg)
 
 
 
